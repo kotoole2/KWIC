@@ -1,0 +1,13 @@
+Kelly O’Toole
+IT 372 KWIK Program Reflection
+
+My original idea was to create a method that takes in a file, puts the words from that file into a temporary array list, then split the array list and add the words back in the new order. My criteria used to create my design included importing a file, using a scanner to read my file, and then writing to a new file. 
+
+My second idea was to create a method that takes in a user input and creates an array from the user input, then the user would give a number and another method would use that number to rearrange the order of the words given by the user. The criteria for this method included, a valid user input, a file writer, and a method to determine how many words are shifted over.
+
+I believe that my first design is more durable, users can make errors, and I would have needed a lot of validation to check for numbers, characters, and double spaces left by users. 
+In my first design to implement a database, I would need to read from the database instead, this would entail deciding which columns, rows and tables I would read from, then we would need to decide if we rewrite the database or create a new one with the moved words. My seconds design does not really incorporate a database.
+
+To add a graphical user face to my first design, I would need to create a GUI which displays user choices, such as choosing which file to read, read the output file, and where to save the new files to. To add a GUI to my second design I would likely add choices such as create a new .txt file, how much movement does the user want, and where should the new output file be saved to. I would likely choose my second option as my choice for which design would use a GUI better.
+
+My first design was easier to implement, the methods were small and easy to write, and the logic was very straight forward. I sadly could not get my second design working, I think I over though the idea, and the logic became lost to me while working on it.
